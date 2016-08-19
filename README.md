@@ -1,4 +1,4 @@
-# Cardboard-Universe-2dF
+# Cardboard-Cosmology-WiggleZ
 Please email any questions to rjknapman@gmail.com.
 
 ## Adding a New Survey
